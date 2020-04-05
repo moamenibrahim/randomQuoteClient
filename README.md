@@ -1,3 +1,5 @@
+![Test, build and deploy](https://github.com/moamenibrahim/randomQuoteClient/workflows/Test,%20build%20and%20deploy/badge.svg)
+
 # random_quote
 
 A new Flutter project.
